@@ -11,9 +11,3 @@ rm t2m.zip
 rm kit.zip
 
 echo -e "Downloading done!"
-
-# fortest
-
-
-
-##
